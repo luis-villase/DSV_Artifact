@@ -1,5 +1,5 @@
 # Isometric Shooter
-A small third person shootre I whipped up<br>
+A small third person shooter I whipped up<br>
 None of the assets are mine. All are under creative commons or royalty free. I'm listing all my sources here:<br><br>
 Audio:<br>
 <ul>
